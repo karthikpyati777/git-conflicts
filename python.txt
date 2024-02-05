@@ -1,1 +1,4 @@
 python project is created.
+
+x=10;
+print(x)
