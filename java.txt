@@ -9,3 +9,7 @@ System.out.println("Good Bye Karthik");
 
 }
 }
+
+we write same program in python program:
+
+print("Good Bye Karthik")
